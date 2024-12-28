@@ -26,15 +26,15 @@
 4. **Запустите скрипты:**
     - Для запуска алгоритма Дейкстры:
       ```bash
-      python lab1_dijkstra.py
+      python task1.py
       ```
     - Для анализа центральности на основе собственных векторов:
       ```bash
-      python lab2_eigenvector_centrality.py
+      python task2.py
       ```
     - Для анализа случайных графов Эрдёша–Реньи:
       ```bash
-      python lab3_random_graph.py
+      python task3.py
       ```
 
 5. **Просмотрите результаты:**
